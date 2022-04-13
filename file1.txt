@@ -1,2 +1,10 @@
 THis text is for file 1
+<<<<<<< HEAD
 line added by JOHN on 04/13/22 at 13:48
+=======
+<<<<<<< HEAD
+STEP 3:  added by Will Metz on 11/03/21 at 14:10
+=======
+STEP 3:  added by YOUR_NAME on 11/03/21 at 14:10
+>>>>>>> fa918b6b7f59345a4c08f64441227ac90738e21c
+>>>>>>> 1b2539ed5b4b5a2484dc651640bfe525b06acbc5
